@@ -5,6 +5,8 @@
 ## Digital First Program
 Educational Internship in which IBM practitioners and trainers have led intensive and complex courses on current (and past, but needed) software and web technologies. Furthermore, once experiences and notions were acquired we moved on real projects working in team.
 
+`3 months`
+
 ### 1st Block - Java Foundations & Software Development
 + Java and OOP
 + Relational Model: Conceptual, Logical and Physical Data Model, mySQL, MongoDB (overview), JDBC
