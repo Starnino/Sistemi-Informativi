@@ -5,23 +5,22 @@
 ## Digital First Program
 Educational Internship in which IBM practitioners and trainers have led intensive and complex courses on current (and past, but needed) software and web technologies. Furthermore, once experiences and notions were acquired we moved on real projects working in team.
 
-### 1st Block
-+ Java OOP Foundations
+### 1st Block - Java Foundations & Sofware Development
++ Java and OOP
 + Conceptual, Logical and Physical Data Model, mySQL, MongoDB, JDBC
 + HTML, Javascript, JQuery, Ajax, Servlet, JSP
 + Design Patterns:  Façade, DAO, VO, DTO, Adapter, Singleton
-+ J2EE: EJB, JTA, JMS, JPA, JPQL, Timer
++ J2EE: EJB, JTA, JMS, JPA, JPQL, Timer, Security
 + **Full Example Application &rarr; [Friendzone](https://github.com/Starnino/Sistemi-Informativi/Friendzone "Friendzone")**
-+ Web Services (SOAP and REST protocols)
 
 `~ 5 weeks`
 
-------------
+### 2nd Block - Web Technologies
++ Web Services (SOAP and REST protocols)
 
-### 2nd Block
+`~ 3 weeks`
 
-------------
+### 3rd Block - Training on the Job
++ Project Introduction
 
-### 3rd Block
-
-------------
+`~ 4 weeks`
