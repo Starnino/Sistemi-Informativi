@@ -18,7 +18,8 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 `~ 5 weeks`
 
 ### 2nd Block - Web Technologies
-+ XML, XSD, JSON, JAX-WS (J2EE), Web Services (SOAP and REST protocols)
++ XML, XSD, WSDL, JSON, JAX-WS JAX-RS(J2EE)
++ Web Services Java (SOAP and REST protocols)
 
 `~ 3 weeks`
 
