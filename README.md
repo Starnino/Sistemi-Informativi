@@ -12,7 +12,7 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 + Relational Model: Conceptual, Logical and Physical Data Model, mySQL, MongoDB (overview), JDBC
 + Web basics: HTML, Javascript, JQuery, Ajax, Servlet, JSP
 + Design Patterns:  Façade, DAO, VO, DTO, Adapter, Singleton
-+ **Full Example Application &rarr; [Friendzone](https://github.com/Starnino/Sistemi-Informativi/Friendzone "Friendzone")**
++ **Full Example Application &rarr; [Friendzone](https://github.com/Starnino/Friendzone "Friendzone")**
 + Business Components J2EE: EJB, JTA, JMS, JPA, JPQL, Timer, Security, Batch, Java Mail
 
 `~ 5 weeks`
