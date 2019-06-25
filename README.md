@@ -20,7 +20,7 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 ### 2nd Block - Web Technologies
 + XML, XSD, WSDL, JSON, JAX-WS JAX-RS(J2EE)
 + Web Services Java (SOAP and REST protocols)
-
++ Enterprice MVC Frameworks and Libraries: Struts, log4j, **Spring MVC**, **MyBatis** (persistence framework)
 `~ 3 weeks`
 
 ### 3rd Block - Training on the Job
