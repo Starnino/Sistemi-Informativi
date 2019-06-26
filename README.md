@@ -11,16 +11,16 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 + Java and OOP
 + Relational Model: Conceptual, Logical and Physical Data Model, mySQL, MongoDB (overview), JDBC
 + Web basics: HTML, Javascript, JQuery, Ajax, Servlet, JSP
-+ Design Patterns:  Façade, DAO, VO, DTO, Adapter, Singleton
++ Design Patterns:  MVC, Façade, DAO, VO, DTO, Adapter, Singleton
 + **Full Example Application &rarr; [Friendzone](https://github.com/Starnino/Friendzone "Friendzone")**
 + Business Components J2EE: EJB, JTA, JMS, JPA, JPQL, Timer, Security, Batch, Java Mail
 
 `~ 5 weeks`
 
-### 2nd Block - Web Technologies
+### 2nd Block - Enterprice Web Technologies
 + XML, XSD, WSDL, JSON, JAX-WS JAX-RS(J2EE)
 + Web Services Java (SOAP and REST protocols)
-+ Enterprice MVC Frameworks and Libraries: Struts, log4j, **Spring MVC**, **MyBatis** (persistence framework)
++ Frameworks and Libraries: Struts, log4j, **Spring**, MyBatis (persistence), Unit Testing 
 
 `~ 3 weeks`
 
