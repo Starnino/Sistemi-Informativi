@@ -13,7 +13,7 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 + Web basics: HTML, Javascript, JQuery, Ajax, Servlet, JSP
 + Design Patterns:  MVC, Façade, DAO, VO, DTO, Adapter, Singleton
 + **Full Example Application &rarr; [Friendzone](https://github.com/Starnino/Friendzone "Friendzone")**
-+ Business Components J2EE: EJB, JTA, JMS, JPA, JPQL, Timer, Security, Batch, Java Mail
++ Business Components JEE: EJB, JTA, JMS, JPA, JPQL, Timer, Security, Batch, Java Mail
 
 `~ 5 weeks`
 
