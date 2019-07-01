@@ -21,10 +21,10 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 + JEE: XML, XSD, WSDL, JAX-WS JAX-RS
 + Web Services Java (SOAP and REST protocols)
 + Frameworks and Libraries: Struts, log4j, 
-<img src=https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png width="17"/>**Spring**
+<img src=https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png width="17" style="user-select:none;" />**Spring**
 , MyBatis (persistence), Unit Testing
 + Web Technolgoies (Advance): HTML5, Javascript, CSS, JSON, Ajax, JQuery
-+ <img src=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png width="20"/>**React**
++ <img src=https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png width="20" user-select:none />**React**
 
 `~ 3 weeks`
 
