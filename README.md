@@ -17,7 +17,7 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 
 `~ 5 weeks`
 
-### 2nd Block - Enterprice Web Technologies
+### 2nd Block - Enterprise Web Technologies
 + JEE: XML, XSD, WSDL, JAX-WS JAX-RS
 + Web Services Java (SOAP and REST protocols)
 + Frameworks and Libraries (Java): Struts, log4j, 
