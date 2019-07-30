@@ -29,6 +29,8 @@ Educational Internship in which IBM practitioners and trainers have led intensiv
 `~ 3 weeks`
 
 ### 3rd Block - Training on the Job
-+ Project Introduction
++ Project Introduction: Banking & Insurance; restructuring and modernization of insurance policy services from presentation to business layer.
++ Development Environment: Virtual Machine (Windows 7) with IBM Eclipse and Oracle DB2
++ Technologies: Spring (IoC), Java (business layer, jsp), struts (MVC), HTML, Javascript, JQuery, iBatis
 
 `~ 4 weeks`
